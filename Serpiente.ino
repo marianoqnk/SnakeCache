@@ -2,7 +2,8 @@
 #include "Adafruit_LEDBackpack.h" //Led 8X8
 #include "Adafruit_GFX.h"
 
-
+//prueba
+//prueba2
 #define LONG_MAX 15  //maxima longitud de la serpiente
 #define DERECHA 5 //pin de la tecla derecha
 #define IZQUIERDA 2 //pin de la tecla izquierda
